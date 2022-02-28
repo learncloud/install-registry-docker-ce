@@ -10,7 +10,7 @@
         * https://github.com/learncloud/install-registry-docker-ce/tree/main/resource
         * git이 설치되어 있는 경우 clone
            ```bash
-           git clone https://github.com/learncloud/install-docker-ce.git
+           git clone https://github.com/learncloud/install-registry-docker-ce.git
 	   
            cd install-registry/resource
            ```
