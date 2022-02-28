@@ -7,7 +7,7 @@
 * image registry는 노드 1개(master)에서만 진행한다.
 * 환경 설정
     * run-registry.sh, docker-registry.tar를 Master 환경에 다운로드한다.
-        * https://github.com/learncloud/install-registry-docker-ce/tree/main/manifest
+        * https://github.com/learncloud/install-registry-docker-ce/tree/main/resource
         * git이 설치되어 있는 경우 clone
            ```bash
            git clone https://github.com/learncloud/install-docker-ce.git
