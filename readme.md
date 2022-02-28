@@ -12,7 +12,7 @@
            ```bash
            git clone https://github.com/learncloud/install-registry-docker-ce.git
 	   
-           cd resource
+           cd install-registry-docker-ce/resource/
            ```
 
 ## 설치 가이드
